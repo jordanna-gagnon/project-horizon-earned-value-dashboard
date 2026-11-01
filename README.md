@@ -25,8 +25,3 @@ A simulated 12-month flight research campaign: 8 work packages, a $5M budget, 56
 - Performance factors are constant over time.
 - Earned value is derived from planned value, not measured from task progress.
 - The data is synthetic.
-
-## Files
-- `Project-HORIZON_Earned Value Dashboard.twbx`: the data model
-- `Project_HORIZON_Executive-Summary.pptx`: one-page summary slide
-- `Executive_Summary_Basboard_Schedule_&_Risk_Dashboard.pdf`: dashboard screenshots
