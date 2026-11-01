@@ -2,9 +2,7 @@
 
 *All data in this project is AI-synthesized for practice. It does not represent a real program.*
 
-**Live dashboard:** [View on Tableau Public](PASTE-YOUR-LINK-HERE)
-
-![Executive Summary dashboard](images/dashboard-1-executive-summary.png)
+**Live dashboard:** [View on Tableau Public]([(https://public.tableau.com/views/ProjectHORIZONEarnedValueDashboard/ExecutiveSummary?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)])
 
 ## Problem
 A program manager needs to know what is late, what is over budget, and what the project will cost at completion.
